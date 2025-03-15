@@ -1,0 +1,4 @@
+Patient,Question,Answer
+4,Do the dipping peaks suggest signs of arrythmia? (yes or no),Yes
+4,What range in ms should be an amplitude of 0-1 but instead there is a much higher peak?,90-110
+4,Is it normal to see two peaks and one dip? (yes or no),no

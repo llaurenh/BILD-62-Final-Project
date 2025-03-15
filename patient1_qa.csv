@@ -1,0 +1,4 @@
+Patient,Question,Answer
+1,Is this ECG Abnormal or Normal?,Abnormal
+1,At what range (ms) is there an abnormally lower dip than expected,0-15
+1,At what range is there supposed to be a dip but instead there is a high peak?,120-140

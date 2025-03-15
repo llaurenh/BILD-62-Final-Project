@@ -1,0 +1,4 @@
+Patient,Question,Answer
+8,At which range (ms) does this patient experience a similar dip to the normal ECG?,0-20
+8,At which range (ms) suggest abnormality?,85-140
+8,Where should the amplitude of ECG be on from range 120-140ms?,0.5-3
